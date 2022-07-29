@@ -1,8 +1,8 @@
 {
-  "name": "Always Old Reddit",
-  "description": "Redirect reddit.com to old.reddit.com",
+  "name": "Easy Reddit Redirect",
+  "description": "Redirect r/something to www.reddit.com/r/something",
   "version": "1.0",
-  "manifest_version": 2,
+  "manifest_version": 1,
   "icons": {
     "48": "48.png",
    "128": "128.png" },
